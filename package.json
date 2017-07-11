@@ -1,0 +1,17 @@
+{
+  "name": "twitter_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Dronsfield",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^1.2.0",
+    "rita": "^1.2.12",
+    "tracery-grammar": "^2.7.3",
+    "twit": "^2.2.5"
+  }
+}
